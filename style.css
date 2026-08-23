@@ -1905,7 +1905,8 @@ p {
 
 .location-actions a {
     padding: 12px;
-
+    color: #FFFFFF;
+    text-decoration: none;
     text-align: center;
 
     border:

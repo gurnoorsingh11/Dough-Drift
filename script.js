@@ -933,7 +933,7 @@ if (bookingForm) {
 
 
     window.open(
-      `https://wa.me/91998810288?text=${message}`,
+      `https://wa.me/919988102588?text=${message}`,
       '_blank'
     );
 
